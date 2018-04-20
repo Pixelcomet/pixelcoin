@@ -11,6 +11,7 @@
 		"type_traits": "cpp",
 		"typeinfo": "cpp",
 		"algorithm": "cpp",
-		"slist": "cpp"
+		"slist": "cpp",
+		"*.ipp": "cpp"
 	}
 }
