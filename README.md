@@ -1,10 +1,6 @@
 Pixelcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/pixelcoin-project/pixelcoin.svg?branch=master)](https://travis-ci.org/pixelcoin-project/pixelcoin)
-
-https://pixelcoin.org
-
 What is Pixelcoin?
 ----------------
 
