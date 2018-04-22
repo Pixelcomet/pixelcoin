@@ -33,7 +33,7 @@ Build Pixelcoin Core
 
 1. Clone the pixelcoin source code and cd into `pixelcoin`
 
-        git clone https://github.com/pixelcoin-project/pixelcoin
+        git clone https://github.com/Pixelcomet/pixelcoin.git
         cd pixelcoin
 
 2.  Build pixelcoin-core:

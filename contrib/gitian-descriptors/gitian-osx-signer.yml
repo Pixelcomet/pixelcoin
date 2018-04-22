@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/pixelcoin-project/pixelcoin-detached-sigs.git"
+- "url": "https://github.com/Pixelcomet/pixelcoin.git-detached-sigs.git"
   "dir": "signature"
 files:
 - "pixelcoin-osx-unsigned.tar.gz"

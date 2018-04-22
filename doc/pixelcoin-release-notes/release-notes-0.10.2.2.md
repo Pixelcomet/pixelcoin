@@ -7,7 +7,7 @@ updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/pixelcoin-project/pixelcoin/issues>
+  <https://github.com/Pixelcomet/pixelcoin.git/issues>
 
 Upgrading and downgrading
 =========================
