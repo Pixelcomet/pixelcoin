@@ -142,15 +142,23 @@ public:
         checkpointData = (CCheckpointData) {
             {
                 {  8, uint256S("0xcf4d576eb09c5be5adb698e819267278548f1fd1112c37d18cd94ebc03108f02")},
+				{  16, uint256S("0x251fbd22dbc3aaf656c8e6c6fb3077ac7388aa97f87a4db9607a4b7d16aed7cc")},
+				{  32, uint256S("0x20538df755effb3064096cdb003a67693f2b95b64c9c1e0e1ac7101925f19d4b")},
+				{  64, uint256S("0x4ef2f74dae3cc06abb79be0f0cbf3414ad418c9124782d309ee9d819f73d3ce6")},
+				{  128, uint256S("0x148d1d47d5740023a9b02eaf16d5bebb56faed0494c1ac0536650d5a11dca0e7")},
+				{  256, uint256S("0x65591854e882795b755b0f0b03ebaffed5c0c6416ce9d10fe71ac55e31536e65")},
+				{  512, uint256S("0xa786b9bc931e1805512f2232aebce8914380eadf340278402e2c31d41d3e603f")},
+				{  1024, uint256S("0xfb3154a87fac6ee3465cb5ca69cce26be86835084454353820b9f8245f427218")},
+				{  2048, uint256S("0xac998d5b5d7066db05253b07a8395d99382d10977ccc2ca1c1c09a96cd5b8520")},
             }
         };
 
         chainTxData = ChainTxData{
-            // Data as of block cf4d576eb09c5be5adb698e819267278548f1fd1112c37d18cd94ebc03108f02 (height 8).
-            1524250940, // * UNIX timestamp of last known number of transactions
-            0,  // * total number of transactions between genesis and that timestamp
+            // Data as of block 4a9478b65c5ac3e9b06a724637d9ff06d64fced8c1fb735f0b5b2c7f4299098e (height 2330).
+            1524395317, // * UNIX timestamp of last known number of transactions
+            2330,  // * total number of transactions between genesis and that timestamp
                     //   (the tx=... number in the SetBestChain debug.log lines)
-            0.00     // * estimated number of transactions per second after that timestamp
+            0.05     // * estimated number of transactions per second after that timestamp
         };
     }
 };
