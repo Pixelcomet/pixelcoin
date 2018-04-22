@@ -36,7 +36,7 @@ Check out the source code in the following directory hierarchy.
     git clone https://github.com/pixelcoin-project/gitian.sigs.ltc.git
     git clone https://github.com/Pixelcomet/pixelcoin.git-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/Pixelcomet/pixelcoin.git.git
+    git clone https://github.com/Pixelcomet/pixelcoin.git
 
 ### Pixelcoin maintainers/release engineers, suggestion for writing release notes
 
